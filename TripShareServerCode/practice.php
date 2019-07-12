@@ -17,6 +17,7 @@ $message = "^___join___^";
 $mess = "^___join___^";
 if (strpos($message, $mess) !== false) {
   echo "포함됨";
+  echo "dsd";
 }else {
   echo "포함안됨";
 }
